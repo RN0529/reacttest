@@ -6,7 +6,7 @@ import Content from './content.js'
 function App() {
   return (
     <div>
-      <h1>Hello</h1>
+      <h1>hallo world</h1>
        <Clock />
        <Content/>
        
